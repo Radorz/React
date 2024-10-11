@@ -1,0 +1,7 @@
+Que es React?
+
+Es una libreria de js
+Es declarativa
+Muy eficiente 
+Predecible
+Componentes
